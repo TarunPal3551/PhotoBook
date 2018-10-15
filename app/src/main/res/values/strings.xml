@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">instawar</string>
+    <string name="authenticationfailed">Authentication failed</string>
+    <string name="authenticationsucces">Authentication Succes</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="user">user</string>
+    <string name="dataaccountsetting">  user_account_setting</string>
+    <string name="Singout">Sign Out</string>
+    <string name="dataUser_setting">  user__setting</string>
+    <string name="profilefragment">Profile fragment</string>
+    <string name="username">username</string>
+    <string name="accountusername">account useranme</string>
+    <string name="fusername">username</string>
+    <string name="email">email</string>
+    <string name="address">address</string>
+    <string name="state">state</string>
+    <string name="profile_photo">profile_photo</string>
+    <string name="phone_number">phone_number</string>
+    <string name="user_photo">user_photo</string>
+    <string name="photo">photo</string>
+    <string name="new_photo">new_photo</string>
+    <string name="profile">profile_photo</string>
+</resources>
